@@ -1,4 +1,4 @@
-##YOLOv2
+    ##YOLOv2
     1.In the ./script, make a 2012_train.txt which include all names of training picutre. 
     2.mkdir VOCdevkit/VOC2012
     3.cd VOCdevkit/VOC2012
